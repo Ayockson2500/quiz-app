@@ -13,7 +13,7 @@ export const QuizResultModal = ({show, onClose, showTotalScore}) => {
             Congratulation!
             <p>Your Total Score is: {showTotalScore}</p>
           </div>
-          <h5 className="close-icon" onClick={onClose}>Ok</h5>
+          <h5 className="close-icon" onClick={onClose}>OK</h5>
         </div>
       </div>
     </div>,
